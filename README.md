@@ -156,4 +156,5 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
 [last-commit-url]: https://github.com/teamdarkanon/xhunter/commits/master
 [repo-size-shield]: https://img.shields.io/github/repo-size/teamdarkanon/xhunter.svg?style=for-the-badge
 [repo-size-url]: https://github.com/teamdarkanon/xhunter/releases 
+[repo-size-shield]: https://img.shields.io/github/telegram/teamdarkanon/xhunter.svg?style=for-the-badge
 [telegram-url]: https://t.me/TeamDarkAnon
