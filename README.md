@@ -141,7 +141,7 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links 
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/anirudhmalik/xhunter.svg?style=for-the-badge
 [contributors-url]: https://github.com/anirudhmalik/xhunter/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/anirudhmalik/xhunter.svg?style=for-the-badge
@@ -155,4 +155,4 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
 [last-commit-shield]: https://img.shields.io/github/last-commit/anirudhmalik/xhunter.svg?style=for-the-badge
 [last-commit-url]: https://github.com/anirudhmalik/xhunter/commits/master
 [repo-size-shield]: https://img.shields.io/github/repo-size/anirudhmalik/xhunter.svg?style=for-the-badge
-[repo-size-url]: https://github.com/anirudhmalik/xhunter/releases -->
+[repo-size-url]: https://github.com/anirudhmalik/xhunter/releases 
