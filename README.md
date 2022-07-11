@@ -63,7 +63,7 @@ Before we proceed one must have:
 
 In order to use tool we must :
 
-1. Download the latest version **xhunter_vX.X.apk** from release section: [here] (https://mega.nz/file/nbwGQQwC#WLWiKJjCNqgeDldnqkyK6oc87qLXBvdol_-u5Tgp5e4)
+1. Download the latest version **xhunter_vX.X.apk** from release section: [here](https://mega.nz/file/nbwGQQwC#WLWiKJjCNqgeDldnqkyK6oc87qLXBvdol_-u5Tgp5e4)
 2. Once downloaded, Install/Open the app in your device. If you face Unknown Source error [see](https://mega.nz/file/ObhVRTRD#g6QGF9xkrY1KxANNTtYzwwSBifqoaRuVBplCutc8CSk) 
 <img src="https://user-images.githubusercontent.com/70255938/177602074-e74d2c0a-d737-4e25-834d-a5d9fa2ab6f7.jpeg" width="200" height="300">
 
