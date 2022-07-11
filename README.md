@@ -1,8 +1,11 @@
 <div id="top"></div>
 
 <!-- PROJECT SHIELDS -->
+[![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
-[![Telegram][telegram-link]][t.me/TeamDarkAnon]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![Last Commit][last-commit-shield]][last-commit-url]
 [![Repo Size][repo-size-shield]][repo-size-url]
 
 
@@ -17,13 +20,11 @@
   <h3 align="center">XHUNTER</h3>
 
   <p align="center">
-    Android Penetration Tool [ RAT for Android ] 💀
+    RAT for Android 💀
     <br />
-    <a href="https://github.com/anirudhmalik/release">View Release</a>
     ·
-    <a href="https://github.com/anirudhmalik/xhunter/issues">Report Bug</a>
+    <a href="https://t.me/TeamDarkAnon">Telegram</a>
     ·
-    <a href="https://github.com/anirudhmalik/xhunter/issues">Request Feature</a>
   </p>
 </div>
 
