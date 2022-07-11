@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 <!-- PROJECT SHIELDS -->
-[![Telegram][telegram-url-shield]][telegram-url]
+[![Telegram][telegram-shield]][telegram-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
@@ -156,5 +156,5 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
 [last-commit-url]: https://github.com/teamdarkanon/xhunter/commits/master
 [repo-size-shield]: https://img.shields.io/github/repo-size/teamdarkanon/xhunter.svg?style=for-the-badge
 [repo-size-url]: https://github.com/teamdarkanon/xhunter/releases 
-[telegram-url-shield]: https://img.shields.io/github/telegram-url/teamdarkanon/xhunter.svg?style=for-the-badge
+[telegram-shield]: https://img.shields.io/github/telegram-url/teamdarkanon/xhunter.svg?style=for-the-badge
 [telegram-url]: https://t.me/TeamDarkAnon
