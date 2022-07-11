@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 <!-- PROJECT SHIELDS -->
-[![Forks][forks-shield]][forks-url]
+[![Telegram][telegram-shield]][telegram-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
@@ -142,17 +142,18 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/anirudhmalik/xhunter.svg?style=for-the-badge
-[contributors-url]: https://github.com/anirudhmalik/xhunter/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/anirudhmalik/xhunter.svg?style=for-the-badge
-[forks-url]: https://github.com/anirudhmalik/xhunter/network/members
-[stars-shield]: https://img.shields.io/github/stars/anirudhmalik/xhunter.svg?style=for-the-badge
-[stars-url]: https://github.com/anirudhmalik/xhunter/stargazers
-[issues-shield]: https://img.shields.io/github/issues/anirudhmalik/xhunter.svg?style=for-the-badge
-[issues-url]: https://github.com/anirudhmalik/xhunter/issues
-[license-shield]: https://img.shields.io/github/license/anirudhmalik/xhunter.svg?style=for-the-badge
-[license-url]: https://github.com/anirudhmalik/xhunter/blob/master/LICENSE.md
-[last-commit-shield]: https://img.shields.io/github/last-commit/anirudhmalik/xhunter.svg?style=for-the-badge
-[last-commit-url]: https://github.com/anirudhmalik/xhunter/commits/master
-[repo-size-shield]: https://img.shields.io/github/repo-size/anirudhmalik/xhunter.svg?style=for-the-badge
-[repo-size-url]: https://github.com/anirudhmalik/xhunter/releases 
+[contributors-shield]: https://img.shields.io/github/contributors/teamdarkanon/xhunter.svg?style=for-the-badge
+[contributors-url]: https://github.com/teamdarkanon/xhunter/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/teamdarkanon/xhunter.svg?style=for-the-badge
+[forks-url]: https://github.com/teamdarkanon/xhunter/network/members
+[stars-shield]: https://img.shields.io/github/stars/teamdarkanon/xhunter.svg?style=for-the-badge
+[stars-url]: https://github.com/teamdarkanon/xhunter/stargazers
+[issues-shield]: https://img.shields.io/github/issues/teamdarkanon/xhunter.svg?style=for-the-badge
+[issues-url]: https://github.com/teamdarkanon/xhunter/issues
+[license-shield]: https://img.shields.io/github/license/teamdarkanon/xhunter.svg?style=for-the-badge
+[license-url]: https://github.com/teamdarkanon/xhunter/blob/master/LICENSE.md
+[last-commit-shield]: https://img.shields.io/github/last-commit/teamdarkanon/xhunter.svg?style=for-the-badge
+[last-commit-url]: https://github.com/teamdarkanon/xhunter/commits/master
+[repo-size-shield]: https://img.shields.io/github/repo-size/teamdarkanon/xhunter.svg?style=for-the-badge
+[repo-size-url]: https://github.com/teamdarkanon/xhunter/releases 
+[telegram-url]: https://t.me/TeamDarkAnon
