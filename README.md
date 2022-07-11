@@ -1,7 +1,6 @@
 <div id="top"></div>
 
 <!-- PROJECT SHIELDS -->
-[![Telegram][telegram-shield]][telegram-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
