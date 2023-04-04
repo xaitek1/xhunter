@@ -103,10 +103,10 @@ https://user-images.githubusercontent.com/70255938/177603280-d74cdcee-d0ae-4036-
 - ✅ bind with other apps
 - ✅ fetch all whatsapp messages
 - ✅ fetch all whatsapp contacts
-- ⏳ receive all target message
-- ⏳ send sms with target device to any number
-- ⏳ recive all target contacts
-- ⏳ receive list of all installedd apps in target device
+- ✅ receive all target message
+- ✅ send sms with target device to any number
+- ✅ recive all target contacts
+- ✅ receive list of all installedd apps in target device
 - ⏳ delete any file or folder from target device
 - ⏳ capture main and front camera
 - ⏳ capture microphone
