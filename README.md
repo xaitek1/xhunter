@@ -17,7 +17,7 @@
     <img src="images/logo.png" alt="Logo" width="300" height="300">
   </a>
 
-  <h3 align="center">XHUNTER</h3>
+  <h3 align="center">XHUNTER V3.0</h3>
 
   <p align="center">
     RAT for Android 💀
